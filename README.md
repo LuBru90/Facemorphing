@@ -15,7 +15,7 @@ James Bond + Scarlet Johansson:
 ![Result](results/matrix4x7.png?raw=true "-")
 
 ### How it works:
-Process:
+Whole process:
 ![Howto](results/howto.JPG?raw=true "-")
 
 Find the landmarks in both images:
