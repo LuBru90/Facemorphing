@@ -1,5 +1,5 @@
 # Facemorphing
-Morphes two faces in to one
+Morphes two faces into one
 
 ## Dependencies:
 [Download the trained Model for facial landmark recognition](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
