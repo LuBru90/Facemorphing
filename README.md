@@ -13,6 +13,7 @@ James Bond + Scarlet Johansson:
 
 ### Morph matrix:
 ![Result](results/matrix4x7.png?raw=true "-")
+![Result](results/matrix23x23.jpg?raw=true "-")
 
 ### How it works:
 Find the landmarks in both images (left and right):
