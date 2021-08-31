@@ -8,7 +8,7 @@ Morphes two faces in to one
 James Bond + Scarlet Johansson:
 ![Result](results/result.png?raw=true "-")
 
-Alphablending between two faces:
+Alphablending between two faces:  
 ![Result](results/gif.gif?raw=true "-")
 
 Morphing matrix:
