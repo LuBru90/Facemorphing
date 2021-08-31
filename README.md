@@ -4,7 +4,7 @@ Morphes two faces into one
 ## Dependencies:
 [Download the trained Model for facial landmark recognition](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
 
-### Face Morph:
+### Results:
 James Bond + Scarlet Johansson:
 ![Result](results/result.png?raw=true "-")
 
