@@ -11,16 +11,15 @@ James Bond + Scarlet Johansson:
 ### Alphablending between two faces:
 ![Result](results/gif.gif?raw=true "-")
 
-### Morphing matrix:
+### Morph matrix:
 ![Result](results/matrix4x7.png?raw=true "-")
 
 ### How it works:
-Whole process:
-![Howto](results/howto.JPG?raw=true "-")
-
-Find the landmarks in both images:
+Find the landmarks in both images (left and right):
 ![Landmarks](results/landmarks.png?raw=true "-")
 
-Use the [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) to generate individual areas (triangles) from the landmarks ...
+Use the [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) to generate individual areas (triangles) from the landmarks:
 ![Delnuay](results/delunay.png?raw=true "-")
-And merge corresponding triangles together.
+
+Merge corresponding triangles together.
+![Howto](results/howto.JPG?raw=true "-")
