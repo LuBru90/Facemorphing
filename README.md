@@ -4,14 +4,14 @@ Morphes two faces in to one
 ## Dependencies:
 [Download the trained Model for facial landmark recognition](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
 
-### Output:
+### Face Morph:
 James Bond + Scarlet Johansson:
 ![Result](results/result.png?raw=true "-")
 
-Alphablending between two faces:  
+### Alphablending between two faces:
 ![Result](results/gif.gif?raw=true "-")
 
-Morphing matrix:
+### Morphing matrix:
 ![Result](results/matrix4x7.png?raw=true "-")
 
 ### How it works:
